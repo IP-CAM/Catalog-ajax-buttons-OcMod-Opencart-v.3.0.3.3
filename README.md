@@ -1,32 +1,33 @@
 # Catalog Ajax Buttons
 
-## Обзор
-Добавляет кнопки для сохранения без перезагрузки страницы.
+## Overview
+Adds buttons to save without rebooting the page.
 
-### Добавляет кнопку на страницах:
-- Категории
-- Продукция
-- Производитель
-- Отзывы
-- Информация
+### adds the button on the pages:
+- Categories
+- Products
+- Manufacturer
+- Reviews
+- Information
 
-### Установка
-- Зайти в панель администрирования Вашего магазина
-- Перейти в Расширения->Установщик
-- Нажать кнопку "Загрузить"
-- Выбрать архив "catalog_ajax_buttons.ocmod.zip"
-- Дождаться завершения установки
-- Перейти в Расширения->Модификации
-- Нажать кнопку "Обновить"
+### Installation
+- Go to the Administration Panel of Your Store
+- Go to expansion-> Installer
+- Press the "Download" button
+- Select archive "catalog_ajax_buttons.ocmod.zip"
+- wait for the installation
+- Go to expansion-> Modifications
+- Press the "Update" button
 
-### Совместимость
-- OpenCart 3.0.3.x
+### compatibility
+- OpenCart 3.0.3.x.
 
-### Сообщение об ошибке
-- [Тема поддержки расширения](https://forum.opencart.name/threads/catalog-ajax-buttons.41/)
+### error message
+- [Expansion Support Theme] (https://forum.opencart.name/threads/catalog-ajax-buttons.41/)
 
-### Лицензия
-[GNU General Public License version 3 (GPLv3)](LICENSE)
+### License
+[GNU GENERAL PUBLIC LICENSE VERSION 3 (GPLV3)] (License)
 
-## Ссылки
-- [Ресурс на форуме](https://forum.opencart.name/resources/catalog-ajax-buttons.20/)
+## Links
+- [Forum resource] (https://forum.opencart.name/resources/catalog-ajax-buttons.20/)
+- 
