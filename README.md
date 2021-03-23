@@ -30,4 +30,3 @@ Adds buttons to save without rebooting the page.
 
 ## Links
 - [Forum resource] (https://forum.opencart.name/resources/catalog-ajax-buttons.20/)
-- 
